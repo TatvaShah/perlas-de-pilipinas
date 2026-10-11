@@ -22,6 +22,15 @@ const title = "Perlas de Pilipinas | Filipino takeout and catering in Scarboroug
 const description =
   "Authentic Filipino cuisine at 2893 Lawrence Avenue East, Unit 11, Scarborough. Takeout, Uber Eats, DoorDash, and party trays. Open Wednesday to Sunday, 7 a.m. to 7 p.m. Call 416-261-2112.";
 
+const ogImage = {
+  url: "https://perlas-de-pilipinas.vercel.app/og.jpg",
+  secureUrl: "https://perlas-de-pilipinas.vercel.app/og.jpg",
+  type: "image/jpeg",
+  width: 1200,
+  height: 630,
+  alt: "Perlas de Pilipinas Filipino takeout and catering in Scarborough",
+};
+
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl()),
   title,
@@ -38,6 +47,7 @@ export const metadata: Metadata = {
   ],
   alternates: { canonical: "/" },
   openGraph: {
+    images: [ogImage],
     title,
     description,
     type: "website",
@@ -46,6 +56,7 @@ export const metadata: Metadata = {
     url: "/",
   },
   twitter: {
+    images: [{ url: ogImage.url, alt: ogImage.alt }],
     card: "summary_large_image",
     title,
     description,
