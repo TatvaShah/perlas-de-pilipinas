@@ -1,1 +1,223 @@
-{}
+{
+ "/media/counter.webp": {
+  "w": 1200,
+  "h": 2134,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/media/counter.816215578a",
+  "stamp": "816215578a"
+ },
+ "/media/feast.webp": {
+  "w": 1200,
+  "h": 2134,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200
+  ],
+  "base": "/images/_opt/media/feast.84f2383a6a",
+  "stamp": "84f2383a6a"
+ },
+ "/media/hero.webp": {
+  "w": 1600,
+  "h": 2132,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1600
+  ],
+  "base": "/images/_opt/media/hero.d37ac2aa14",
+  "stamp": "d37ac2aa14"
+ },
+ "/media/karekare.webp": {
+  "w": 1400,
+  "h": 1866,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1400
+  ],
+  "base": "/images/_opt/media/karekare.93d30a8b52",
+  "stamp": "93d30a8b52"
+ },
+ "/media/lechon.webp": {
+  "w": 900,
+  "h": 1600,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   900
+  ],
+  "base": "/images/_opt/media/lechon.86f2e6f1c3",
+  "stamp": "86f2e6f1c3"
+ },
+ "/media/logo.webp": {
+  "w": 512,
+  "h": 512,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   512
+  ],
+  "base": "/images/_opt/media/logo.6538c2c184",
+  "stamp": "6538c2c184"
+ },
+ "/media/lomi.webp": {
+  "w": 1400,
+  "h": 1866,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1400
+  ],
+  "base": "/images/_opt/media/lomi.13d935a5d3",
+  "stamp": "13d935a5d3"
+ },
+ "/media/lumpia.webp": {
+  "w": 900,
+  "h": 1600,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   900
+  ],
+  "base": "/images/_opt/media/lumpia.ded7dc7138",
+  "stamp": "ded7dc7138"
+ },
+ "/media/mami.webp": {
+  "w": 1400,
+  "h": 1866,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1400
+  ],
+  "base": "/images/_opt/media/mami.4ebdf246ca",
+  "stamp": "4ebdf246ca"
+ },
+ "/media/noodles.webp": {
+  "w": 1400,
+  "h": 1864,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1400
+  ],
+  "base": "/images/_opt/media/noodles.6601c1663f",
+  "stamp": "6601c1663f"
+ },
+ "/media/pancit.webp": {
+  "w": 1400,
+  "h": 1864,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1400
+  ],
+  "base": "/images/_opt/media/pancit.202c4bcee8",
+  "stamp": "202c4bcee8"
+ },
+ "/media/trays.webp": {
+  "w": 900,
+  "h": 1600,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   900
+  ],
+  "base": "/images/_opt/media/trays.dc53fb352e",
+  "stamp": "dc53fb352e"
+ },
+ "/media/wonton.webp": {
+  "w": 1400,
+  "h": 1864,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080,
+   1200,
+   1400
+  ],
+  "base": "/images/_opt/media/wonton.dcd861492c",
+  "stamp": "dcd861492c"
+ }
+}
